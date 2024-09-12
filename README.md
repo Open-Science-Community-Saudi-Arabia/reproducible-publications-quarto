@@ -1,4 +1,4 @@
-# Introduction to Reproducible Publications with Quarto
+# Beginner's Guide to Open Science Practices with Quarto
 
 This workshop explores the powerful combination of Quarto and RStudio to author scientific publications. Our aim is to enhance researchers' adoption of open and reproducible practices while improving their project and data management skills.
 
